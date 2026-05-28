@@ -1,5 +1,21 @@
 # Theresa
-finish the ML course.
+Explore the following (read general papers:literature review, survey, or fututre directions) 1 paper for each: 
+**
+ML for cybersecurity
+
+Trustworthy AI (explainable AI, robustness) for cyber security
+explainable ai for cybersecurity: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9877919
+
+federated learning for cyber security: [https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9566732]
+(https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9709603)
+**
+
+
+
+
+
+
+finish the ML course. (almost finished)
 
 model compression (distributed AI), 
 
