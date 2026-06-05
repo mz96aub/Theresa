@@ -1,4 +1,7 @@
 # Theresa
+
+topic federated learning + trustworthiness. For next time, finish a federated learning course (udemy or youtube or ....) (give me feedbakc the best course you find), read about fereted learning in cybersecurity but choose the context first, we still need to choose the context (cloud security, iot security (choose something else), dos, IDS, cyber physical security.... search all cybersecurity domains)
+
 Explore the following (read general papers:literature review, survey, or fututre directions) 1 paper for each: 
 **
 ML for cybersecurity
