@@ -1,5 +1,21 @@
 # Theresa
 
+Read the first three Papers, and prepare a presentation for each paper explaining what does it include and focus on formulas:
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10870877
+
+https://www.sciencedirect.com/science/article/pii/S0167404820301620
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10963898
+
+If you have time, see these two also:
+
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/int.22992
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10879481
+
+
+
 for next time: finish the FL course, prepare a ppt about different federated learning algorithms and what is the difference between them and where do we use each. Also later on we'll do a summary about what are the federated learning algorithms used in cybersecurity.
 
 topic federated learning + trustworthiness. For next time, finish a federated learning course (udemy or youtube or ....) (give me feedbakc the best course you find), read about fereted learning in cybersecurity but choose the context first, we still need to choose the context (cloud security, iot security (choose something else), dos, IDS, cyber physical security.... search all cybersecurity domains)
